@@ -1,0 +1,119 @@
+.meong {
+  margin: auto;
+  border: 1px #92919452 solid;
+  width: 1300px;
+  border-radius: 20px;
+  height: 285px;
+  margin-bottom: 20px;
+}
+
+.meong h1 {
+  font-size: large;
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+.meong p {
+  font-size: large;
+  margin-left: 20px;
+}
+
+.meong button {
+  size: 100px;
+  margin-left: 20px;
+  border-radius: 4px;
+  background-color: #472f92;
+  color: aliceblue;
+}
+
+.meong img {
+  width: 280px;
+  height: 100px;
+  float: right;
+  margin-left: 90px;
+  margin-right: 50px;
+}
+
+.guguk {
+  margin: auto;
+  border: 1px #92919452 solid;
+  width: 1300px;
+  border-radius: 20px;
+  height: 285px;
+}
+
+.guguk h1 {
+  font-size: large;
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+.guguk p {
+  font-size: large;
+  margin-left: 20px;
+}
+
+.guguk button {
+  size: 100px;
+  margin-left: 20px;
+  border-radius: 4px;
+  background-color: #472f92;
+  color: aliceblue;
+}
+
+.guguk img {
+  width: 280px;
+  height: 100px;
+  float: right;
+  margin-left: 90px;
+  margin-right: 50px;
+}
+
+.geprekbensu {
+  margin: auto;
+  border: 1px #92919452 solid;
+  width: 1300px;
+  border-radius: 20px;
+  height: 285px;
+  margin-top: 25px;
+}
+
+.geprekbensu h1 {
+  font-size: large;
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+.geprekbensu p {
+  font-size: large;
+  margin-left: 20px;
+}
+.geprekbensu button {
+  size: 100px;
+  margin-left: 20px;
+  border-radius: 4px;
+  background-color: #472f92;
+  color: aliceblue;
+}
+
+.geprekbensu img {
+  width: 280px;
+  height: 240px;
+  float: right;
+  margin-left: 90px;
+  margin-right: 50px;
+}
+.navigasi {
+  background-color: #472f92;
+  border-radius: 8px;
+  width: 1300px;
+  height: 30px;
+  color: aliceblue;
+  text-align: center;
+  margin: auto;
+}
+
+.navigasi a {
+  color: aliceblue;
+  font-size: x-large;
+}
